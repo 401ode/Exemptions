@@ -1,0 +1,56 @@
+Plat-Lot-Unit,Plat,Lot,Unit,Class,Class Desc.,LEVY_CODE,Levy Desc.,Non Residential Exempt,Location_Number,Location_Street,Location_Suffix,Formatted_Address,Location_City,Location_Zip,Owner_First,Owner_Last,Company,Owner_Add_Number,Owner_Add_Street,Owner_Add_Suffix,Owner_Add_Unit,OwnerAddress,Owner_Add_City,Owner_Add_State,Owner_Add_Zip,Total_Assessment,Total_Exemptions,Total_Taxes,PropertyLocation,OwnerLocation
+024-0616-OEX1,24,616,OEX1,72,Church,E01,Non Residential Exempt,Yes,30,Fenner,St,30 Fenner St,Providence,2903, , ,St Peters And Pauls Church,30,FENNER,ST,,"30 FENNER ST PROVIDENCE, RI",PROVIDENCE,RI,02903-3603,"$1,133,800.00 ",$0.00 ,"$41,610.48 ","30 Fenner St
+Providence, Rhode Island
+(41.818663, -71.416416)","30 FENNER ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-3603
+(41.818663, -71.416416)"
+000-0001-0002,0,1,2,80,State,E01,Non Residential Exempt,Yes,,Bridge Across Seekonk River,,Bridge Across Seekonk River,Providence,2906,,,,,State Office Building,,," State Office Building  Providence, RI",Providence,RI,2903,$0.00 ,$0.00 ,,"Bridge Across Seekonk River
+Providence, Rhode Island
+","State Office Building Providence, RI
+Providence, RI 02903
+"
+071-0047-LB02,71,47,LB02,72,Church,E01,Non Residential Exempt,Yes,45,Greeley,St,45 Greeley St,Providence,2904, , ,St Anns Catholic Church,280,HAWKINS,ST,,"280 HAWKINS ST PROVIDENCE, RI",PROVIDENCE,RI,02904-2224,$0.00 ,$0.00 ,,"45 Greeley St
+Providence, Rhode Island
+(41.852429, -71.421966)","280 HAWKINS ST PROVIDENCE, RI
+PROVIDENCE, RI 02904-2224
+(41.851192, -71.420665)"
+126-0422-0000,126,422,0,78,Municipal,E01,Non Residential Exempt,Yes,350,Niantic,Ave,350 Niantic Ave REAR,Providence,2907, , ,City of Providence,25,DORRANCE,ST,,"25 DORRANCE ST PROVIDENCE, RI",PROVIDENCE,RI,02903-1738,$0.00 ,$0.00 ,,"350 Niantic Ave REAR
+Providence, Rhode Island
+(41.792966, -71.437533)","25 DORRANCE ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-1738
+(41.824316, -71.412539)"
+126-0421-0000,126,421,0,78,Municipal,E01,Non Residential Exempt,Yes,410,Niantic,Ave,410 Niantic Ave,Providence,, , ,City of Providence,25,DORRANCE,ST,,"25 DORRANCE ST PROVIDENCE, RI",PROVIDENCE,RI,02903-1738,$0.00 ,$0.00 ,,"410 Niantic Ave
+Providence, Rhode Island
+(41.792988, -71.43754)","25 DORRANCE ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-1738
+(41.824316, -71.412539)"
+057-0077-0000,57,77,0,82,Vote of City,E01,Non Residential Exempt,Yes,172,Pavilion,Ave,172 Pavilion Ave,Providence,2905, , ,Providence Redevelopment Agency,400,WESTMINSTER,ST,,"400 WESTMINSTER ST PROVIDENCE, RI",PROVIDENCE,RI,02903-3222,"$10,900.00 ",$0.00 ,$400.04 ,"172 Pavilion Ave
+Providence, Rhode Island
+(41.796477, -71.407525)","400 WESTMINSTER ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-3222
+(41.821128, -71.415103)"
+051-0312-0000,51,312,0,78,Municipal,E01,Non Residential Exempt,Yes,0,Mashapaug,St,0 Mashapaug St,Providence,, , ,City of Providence,25,DORRANCE,ST,,"25 DORRANCE ST PROVIDENCE, RI",PROVIDENCE,RI,02903-1738,$0.00 ,$0.00 ,,"0 Mashapaug St
+Providence, Rhode Island
+","25 DORRANCE ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-1738
+(41.824316, -71.412539)"
+051-0146-0000,51,146,0,78,Municipal,E01,Non Residential Exempt,Yes,0,Mashapaug,St,0 Mashapaug St,Providence,, , ,City of Providence,25,DORRANCE,ST,,"25 DORRANCE ST PROVIDENCE, RI",PROVIDENCE,RI,02903-1738,$0.00 ,$0.00 ,,"0 Mashapaug St
+Providence, Rhode Island
+","25 DORRANCE ST PROVIDENCE, RI
+PROVIDENCE, RI 02903-1738
+(41.824316, -71.412539)"
+022-0359-0000,22,359,0,78,Municipal,E01,Non Residential Exempt,Yes,30,Allens,Ave,30 Allens Ave,Providence,2903,,,Dominion Energy Manchester Street Inc,625,Liberty,Ave,,"625 Liberty Ave Pittsburgh, PA",Pittsburgh,PA,15222,"$700,100.00 ",$0.00 ,"$25,693.68 ","30 Allens Ave
+Providence, Rhode Island
+(41.813215, -71.405871)","625 Liberty Ave Pittsburgh, PA
+Pittsburgh, PA 15222
+(40.442211, -80.000775)"
+022-0363-0000,22,363,0,83,44-3-9 Stb,E01,Non Residential Exempt,Yes,50,Allens,Ave,50 Allens Ave,Providence,2903,,,Dominion Energy Manchester Street Inc,625,Liberty,Ave,,"625 Liberty Ave Pittsburgh, PA",Pittsburgh,PA,15222,$0.00 ,$0.00 ,,"50 Allens Ave
+Providence, Rhode Island
+(41.813218, -71.405872)","625 Liberty Ave Pittsburgh, PA
+Pittsburgh, PA 15222
+(40.442211, -80.000775)"
+065-0551-00EX,65,551,00EX,72,Church,E01,Non Residential Exempt,Yes,239,Regent,Ave,239 Regent Ave,Providence,2909, , ,Church of The Blessed Sacrament,239,REGENT,AVE,,"239 REGENT AVE PROVIDENCE, RI",PROVIDENCE,RI,02908-4530,$0.00 ,$0.00 ,,"239 Regent Ave
+Providence, Rhode Island
+(41.829368, -71.443043)","239 REGENT AVE PROVIDENCE, RI
+PROVIDENCE, RI 02908-4530
+(41.829368, -71.443043)"
