@@ -1,5 +1,6 @@
 # Tax Exemptions Report
-## Files
+## Files and Directories
+* `Abnormalities` contains CSVs relating to the issues described below.
 * `2016_Original.csv` contains the original CSV file provided by data.providenceri.gov.
 * `Worksheet.xlsx` contains all working files for this repository, including the below-referenced pivot tables and error documentation.
 
