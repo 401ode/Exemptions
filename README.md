@@ -1,7 +1,8 @@
 # Tax Exemptions Report
 ## Files and Directories
 * `Abnormalities` contains CSVs relating to the issues described below.
-* `2016_Original.csv` contains the original CSV file provided by data.providenceri.gov.
+* `Pivots` contains CSVs created by Excel pivot tables. These are the basis for the data analysis section below.
+* `2016_Original.csv` contains the original CSV file provided by [data.providenceri.gov](data.providenceri.gov).
 * `Worksheet.xlsx` contains all working files for this repository, including the below-referenced pivot tables and error documentation.
 
 ## Filtering the Data
