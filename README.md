@@ -11,7 +11,8 @@ Of 44339 records, only 2587 are non-residential exemptions. Almost all of these 
 * The differences between assessments and exemptions is always $0.00 for non-residential exemptions, but it adds up to $937,954,549
 out of a total $9,662,523,513 in other exemptions.
 * The "Vote of City" class has by far the highest average exemption among non-residential exemptions, with an average of over $77 million. Among other exemptions, the "44-3-9 Stb" and "Miscellaneous" categories see the highest exemptions, with an average of about $2.5 million each. Interestingly, these are the only two major categories of other exemptions where the assessment is always equal to the exemption value.
-* Non-residential exemptions total $9,334,760,900 in value, while other exemptions total $327,762,613. The average non-zero, non-residential exemption is 54 times larger than the average other non-zero exemption.  
+* Non-residential exemptions total $9,334,760,900 in value, while other exemptions total $327,762,613. The average non-zero, non-residential exemption is 54 times larger than the average other non-zero exemption.
+![top15nonres](https://cloud.githubusercontent.com/assets/13228316/17568508/0a98a59a-5f12-11e6-916b-c00d9b211efc.PNG) ![top15other](https://cloud.githubusercontent.com/assets/13228316/17568519/168784a2-5f12-11e6-9869-ac553e1f8a60.PNG)
 
 ## Abnormalities
 *	As stated in the filtering section, 11 records with Levy Description “Non Residential Exemption” have Total_Exemptions equal to $0.00. These are stored in the “No Exemption Errors” spreadsheet.
