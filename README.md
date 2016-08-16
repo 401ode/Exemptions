@@ -1,4 +1,8 @@
 # Tax Exemptions Report
+
+##Link to Map
+[PVD Tax Map](https://ryankelly23.carto.com/viz/2ac6ece4-63ec-11e6-aed9-0ef24382571b/public_map "PVD Tax Map Link")
+
 ## Files and Directories
 * `Abnormalities` contains CSVs relating to the issues described below.
 * `Pivots` contains CSVs created by Excel pivot tables. These are the basis for the data analysis section below.
