@@ -1,4 +1,8 @@
 # Tax Exemptions Report
+
+##Link to Map
+[PVD Tax Map](https://ryankelly23.carto.com/viz/2ac6ece4-63ec-11e6-aed9-0ef24382571b/public_map "PVD Tax Map Link")
+
 ## Files and Directories
 * `Abnormalities` contains CSVs relating to the issues described below.
 * `Pivots` contains CSVs created by Excel pivot tables. These are the basis for the data analysis section below.
@@ -18,3 +22,29 @@ out of a total $9,662,523,513 in other exemptions.
 ## Abnormalities
 *	As stated in the filtering section, 11 records with Levy Description “Non Residential Exemption” have Total_Exemptions equal to $0.00. These are stored in the “No Exemption Errors” spreadsheet.
 *	There are 5 records with exemption value greater than their assessment value. These are stored in the “Exemption > Assessment” spreadsheet, and sum to an error of $84,662. Four out of five of them have class description, “Residential Vacant Land.”
+
+##Totals
+| Year | Description                              | Total           |
+|------|------------------------------------------|-----------------|
+| 2016 | Non Residential Exempt Total_Assessment: | $9,336,605,700  |
+| 2016 | Non Residential Exempt Total_Exemptions: | $9,334,760,900  |
+| 2016 | Sum of Exemptions:                       | $9,662,523,513  |
+| 2016 | Sum of Total_Assessment:                 | $20,006,059,962 |
+| 2016 | Percent Exemption                        | %48.30          |
+| 2016 | Total Parcels Area                       | 594,288,682     |
+| 2016 | Non Residential Exempt Area              | 222,154,846     |
+| 2016 | Percent Non Residential Exempt Area      | %37.38          |
+|      |                                          |                 |
+|      |                                          |                 |
+| 2015 | Non Residential Exempt Total_Assessment: | $576,316,375    |
+| 2015 | Non Residential Exempt Total_Exemptions: | $576,316,375    |
+| 2015 | Sum of Exemptions:                       | $588,108,773    |
+| 2015 | Sum of Total_Assessment:                 | $1,279,696,970  |
+| 2015 | Percent Exemption                        | %45.96          |
+|      |                                          |                 |
+|      |                                          |                 |
+| 2015 | Non Residential Exempt Total_Assessment: | $834,510,000    |
+| 2015 | Non Residential Exempt Total_Exemptions: | $834,510,000    |
+| 2015 | Sum of Exemptions:                       | $861,602,822    |
+| 2015 | Sum of Total_Assessment:                 | $2,247,265,037  |
+| 2015 | Percent Exemption                        | %38.34          |
