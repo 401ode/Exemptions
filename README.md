@@ -5,6 +5,7 @@
 
 ## Files and Directories
 * `Abnormalities` contains CSVs relating to the issues described below.
+* `Map Layers` contains files related to exemption visualization, currently viewable at [https://designist.carto.com/viz/e7a729a8-63e4-11e6-85e0-0e05a8b3e3d7/public_map](https://designist.carto.com/viz/e7a729a8-63e4-11e6-85e0-0e05a8b3e3d7/public_map).
 * `Pivots` contains CSVs created by Excel pivot tables. These are the basis for the data analysis section below.
 * `2016_Original.csv` contains the original CSV file provided by [data.providenceri.gov](data.providenceri.gov).
 * `Worksheet.xlsx` contains all working files for this repository, including the below-referenced pivot tables and error documentation.
@@ -48,3 +49,5 @@ out of a total $9,662,523,513 in other exemptions.
 | 2015 | Sum of Exemptions:                       | $861,602,822    |
 | 2015 | Sum of Total_Assessment:                 | $2,247,265,037  |
 | 2015 | Percent Exemption                        | %38.34          |
+
+![newclasses](https://cloud.githubusercontent.com/assets/13228316/17745648/ab16fd7e-647a-11e6-898b-39bb6da59d92.PNG)
